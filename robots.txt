@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://hicadeba.github.io/sitemap
+Sitemap: https://hicadeba.github.io/app/sitemap
+Sitemap: https://hicadeba.github.io/assets/sitemap
+Sitemap: https://hicadeba.github.io/css/sitemap
+Sitemap: https://hicadeba.github.io/includes/sitemap
+Sitemap: https://hicadeba.github.io/item/sitemap
+Sitemap: https://hicadeba.github.io/src/sitemap
